@@ -1,4 +1,4 @@
-# REST CRUD with MYSQL Database example
+# REST-API: CRUD with MYSQL
 
 http://localhost:8080/koirat_api
 
